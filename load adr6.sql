@@ -1,0 +1,1 @@
+INSERT INTO `sap-pso-demo-sandbox.GS4_RAW.adr6` SELECT * FROM SAP_ECC_RAW.adr6
